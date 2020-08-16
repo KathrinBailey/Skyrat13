@@ -20167,17 +20167,17 @@
 	},
 /turf/open/floor/plating,
 /area/fabric_of_reality)
-"WG" = (
-/obj/machinery/door/airlock/wood,
-/obj/structure/fans/tiny/invisible,
-/turf/open/floor/wood,
-/area/centcom/holding)
 "WH" = (
 /obj/effect/turf_decal/trimline/red/filled/corner{
 	dir = 8
 	},
 /turf/open/floor/plasteel/dark,
 /area/centcom/evac)
+"WI" = (
+/obj/machinery/door/airlock/wood,
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/wood,
+/area/centcom/holding)
 "WJ" = (
 /obj/machinery/door/airlock/centcom{
 	name = "Thunderdome Administration";
@@ -47056,7 +47056,7 @@ Zl
 Zl
 Zl
 Zl
-WG
+WI
 Sd
 Sd
 Yo
